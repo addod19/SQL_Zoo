@@ -2,8 +2,8 @@
 
 ## Solutions to SQL_Zoo test
 
-< This a part of a series of projects undertaken by students of [microverse](httos://www.microverse.org)
-remote school for software developers
+` This a part of a series of projects undertaken by students of [microverse](httos://www.microverse.org)
+remote school for software developers `
 
 ## Technology
 
